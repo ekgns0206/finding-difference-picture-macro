@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding Difference Picture macro", "Finding Difference Picture macro\Finding Difference Picture macro.csproj", "{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Status Tool", "Status Tool\Status Tool.csproj", "{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{885D4DDB-AF97-4EA2-B65F-E885D8BA4022}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "시연영상", "시연영상", "{84C6226F-F26A-4BA3-9F8B-8F39409316C9}"
+	ProjectSection(SolutionItems) = preProject
+		틀린그림찾기 영상1.mp4 = 틀린그림찾기 영상1.mp4
+		틀린그림찾기 영상2.mp4 = 틀린그림찾기 영상2.mp4
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}.Debug|x86.ActiveCfg = Debug|x86
+		{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}.Debug|x86.Build.0 = Debug|x86
+		{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}.Release|x86.ActiveCfg = Release|x86
+		{9955ABD6-8D3E-4A4E-A5CA-DD97831892FA}.Release|x86.Build.0 = Release|x86
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}.Debug|x86.Build.0 = Debug|Any CPU
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}.Release|x86.ActiveCfg = Release|Any CPU
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D69C68EE-BF8B-4BD0-997B-89F359F8F6FF} = {885D4DDB-AF97-4EA2-B65F-E885D8BA4022}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9DEE78-54E4-4563-9A54-0E3D63BB2C46}
+	EndGlobalSection
+EndGlobal
